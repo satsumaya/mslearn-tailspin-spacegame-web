@@ -16,6 +16,7 @@
 #- script: dotnet build --configuration $(buildConfiguration)
 #  displayName: 'dotnet build $(buildConfiguration)'
 #
+# update build-pipeline branch
 #
 
 trigger:
